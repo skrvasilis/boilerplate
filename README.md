@@ -1,4 +1,4 @@
-# DCI Boilerplate sass + parcel
+# Boilerplate sass + parcel
 
 An HTML CSS boilerplate with built-in sass support:
 
